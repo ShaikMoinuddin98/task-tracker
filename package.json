@@ -1,7 +1,7 @@
 {
+  "homepage": "https://shaikmoinuddin98.github.io/task-tracker",
   "name": "task-tracker",
   "version": "0.1.0",
-  "homepage": "https://ShaikMoinuddin98.github.io/task-tracker",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
