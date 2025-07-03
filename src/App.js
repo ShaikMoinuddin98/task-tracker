@@ -10,7 +10,7 @@ function ProtectedRoute({ children }) {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/task-tracker">
       <Routes>
         <Route path="/" element={<Login />} />
         <Route
