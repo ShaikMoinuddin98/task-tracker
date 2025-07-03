@@ -1,4 +1,3 @@
-````markdown
 # 📋 Task Tracker
 
 A simple, responsive personal task management app built with React, Bootstrap, and React Router. Add, edit, delete, and filter tasks—all persisted in `localStorage`.
