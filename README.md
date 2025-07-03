@@ -16,6 +16,9 @@ A simple, responsive personal task management app built with React, Bootstrap, a
 
 ---
 
+## Deployed URL:
+https://shaikmoinuddin98.github.io/task-tracker/
+
 ## 🛠️ Tech Stack
 
 - [React](https://reactjs.org/)  
